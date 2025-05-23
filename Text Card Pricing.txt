@@ -1,4 +1,4 @@
-* CARD
+ * CARD
 
 card__list-description
 3 user request
